@@ -1,0 +1,23 @@
+Licenses
+========
+
+This repository is a collection of open source licenses.
+It provide users the convinience of not needing to search
+for the text of licenses online.
+
+The following licenses are included:
+    * BSD - 3-clause
+    * GPLv2
+    * GPLv3
+    * MIT
+    * APACHEv2
+
+Use
+---
+
+After checking out the repo, simply copy the license needed
+by your project to a file called *LICENSE*, or *SHARING*
+(consult your chosen license if unsure of the correct filename),
+to the root directory of your project.
+
+    $ cp <PREFERRED-LICENSE> project/root/LICENSE
